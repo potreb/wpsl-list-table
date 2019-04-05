@@ -1,6 +1,6 @@
 <?php
 /**
- * Administration API: WP_List_Table class
+ * Administration API: List_Table class
  *
  * @package WPSL
  */
@@ -13,7 +13,7 @@ namespace WPSL;
  * @since 3.1.0
  * @access private
  */
-class WP_List_Table {
+class List_Table {
 
 	/**
 	 * The current list of items.
